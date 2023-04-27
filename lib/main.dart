@@ -2,7 +2,7 @@ import 'package:animated_theme_switcher/animated_theme_switcher.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'Design/LogOutScreen.dart';
+import 'Design/logOut_view.dart';
 import 'Design/themeServices.dart';
 
 void main() async {
